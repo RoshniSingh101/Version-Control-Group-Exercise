@@ -69,6 +69,8 @@ See our [documentation](http://jupyterlab.readthedocs.io/en/latest/getting_start
 ## License
 Our program utilizes "The Unlicense." With this license, users are permitted to use this program for private use, commercial use, and may modify and distribute the program. We dedicate any and all copyright interest in the software to the public domain.
 
+See our [license](https://github.com/RoshniSingh101/Version-Control-Group-Exercise/blob/main/LICENSE.md)
+
 ---
 
 ## Code of Conduct
