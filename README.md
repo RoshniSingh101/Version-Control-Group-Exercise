@@ -65,3 +65,6 @@ The latest versions of the following browsers are currently _known to work_:
 See our [documentation](http://jupyterlab.readthedocs.io/en/latest/getting_started/installation.html) for additional details.
 
 ---
+
+## License
+Our program utilizes "The Unlicense." With this license, users are permitted to use this program for private use, commercial use, and may modify and distribute the program. We dedicate any and all copyright interest in the software to the public domain.
