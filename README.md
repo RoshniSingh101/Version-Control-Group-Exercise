@@ -62,16 +62,18 @@ The latest versions of the following browsers are currently _known to work_:
 - Chrome
 - Safari
 
-See our [documentation](http://jupyterlab.readthedocs.io/en/latest/getting_started/installation.html) for additional details.
+See [documentation](http://jupyterlab.readthedocs.io/en/latest/getting_started/installation.html) for additional details.
 
 ---
 
 ## License
 Our program utilizes "The Unlicense." With this license, users are permitted to use this program for private use, commercial use, and may modify and distribute the program. We dedicate any and all copyright interest in the software to the public domain.
 
-See our [license](https://github.com/RoshniSingh101/Version-Control-Group-Exercise/blob/main/LICENSE.md)
+See [license](https://github.com/RoshniSingh101/Version-Control-Group-Exercise/blob/main/LICENSE.md)
 
 ---
 
 ## Code of Conduct
 Please refer to our code of conduct to read our guidelines on collaborating with each other to maintain a respectful and safe environment for everyone to contribute to by reading the CODE-OF-CONDUCT.md
+
+See [code of conduct](https://github.com/RoshniSingh101/Version-Control-Group-Exercise/blob/main/CODE-OF-CONDUCT.md)
