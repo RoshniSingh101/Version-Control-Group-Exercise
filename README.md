@@ -7,9 +7,9 @@ The first two lines of code take in input. Specifically, the first will ask for 
 
 Example of input code: 
 
-'''python 
+``` python
 name = input("What is your name? ") 
-'''
+```
 ---
 
 ## Getting started
