@@ -8,11 +8,11 @@ The first two lines of code take in input. Specifically, the first will ask for 
 Example of input code: 
 name = input("What is your name? ") 
 
---
+---
 
 ## Getting started
 
-### Installation
+### Installation of JupyterHub
 
 If you use [conda](https://docs.conda.io/en/latest/), [mamba](https://mamba.readthedocs.io/en/latest/), or [pip](https://docs.python.org/3/installing/index.html), you can install JupyterLab with one of the following commands.
 
