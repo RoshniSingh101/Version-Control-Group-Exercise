@@ -14,7 +14,7 @@ name = input("What is your name? ")
 
 ## Getting started
 
-### Installation of JupyterHub
+### Installation of JupyterLab
 
 If you use [conda](https://docs.conda.io/en/latest/), [mamba](https://mamba.readthedocs.io/en/latest/), or [pip](https://docs.python.org/3/installing/index.html), you can install JupyterLab with one of the following commands.
 
